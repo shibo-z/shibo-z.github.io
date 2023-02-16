@@ -2,4 +2,5 @@
 
 **操作系统**
 ***
-* [指南](os/guide)
+* [指南](guide)
+* [linux](linux/guide)
