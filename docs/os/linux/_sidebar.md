@@ -2,5 +2,5 @@
 
 **操作系统**
 ***
-* [指南](guide)
-* [ubuntu初始化](initshell)
+* [指南](os/linux/guide)
+* [ubuntu初始化](os/linux/initshell)

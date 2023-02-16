@@ -1,1 +1,1 @@
-主要时ubuntu或debain, 前些年一直接触centos，换换口味
+> 主要时ubuntu或debain, 前些年一直接触centos，换换口味
